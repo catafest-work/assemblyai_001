@@ -1,0 +1,24 @@
+{
+  "name": "assemblyai_001",
+  "version": "1.0.0",
+  "description": "test AssemblyAI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "private": true,
+  "dependencies": {
+    "assemblyai": "^4.8.0"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "catafest",
+    "catafest-work",
+    "AssemblyAI",
+    "javascript",
+    "nodejs"
+  ],
+  "author": "catafest",
+  "license": "ISC",
+  "type": "module"
+}
