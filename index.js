@@ -3,7 +3,7 @@
 import { AssemblyAI } from 'assemblyai'
 
 const client = new AssemblyAI({
-    apiKey: "2ffe61dc5e4c479885a3df253ef81e0d"
+    apiKey: "APY_KEY"
 })
 
 const audioUrl =
